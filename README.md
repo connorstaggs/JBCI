@@ -6,7 +6,7 @@ More information about the project, including published research reports, may be
 
 ## Code
 
-All analysis was conducted in R. The `pacman` package is used to manage required packages, including `tidyverse` and `kableExtra`, and `janitor`.
+All analysis was conducted in R, with outputs generated from an RMarkdown file. The `pacman` package is used to manage required packages, including `tidyverse` and `kableExtra`, and `janitor`.
 
 ## Data
 
